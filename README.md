@@ -21,11 +21,11 @@ Hi their this is themam presenting you Notes Maker a simple notes taking softwar
 
 Follow the bellow commands to run the program.
 
-apt-get update 
-apt-get upgrade
-apt-get install python3
-apt-get install git
-git clone https://github.com/Muzammil538/Notes-Maker.git
-cd Notes-Maker
-chmod +x *
-python3 notes-maker.py
+apt-get update <br>
+apt-get upgrade<br>
+apt-get install python3<br>
+apt-get install git<br>
+git clone https://github.com/Muzammil538/Notes-Maker.git <br>
+cd Notes-Maker<br>
+chmod +x *<br>
+python3 notes-maker.py<br>
